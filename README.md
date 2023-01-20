@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xuplesia
+- 👋 Hi, I’m @Xu
 - 👀 I’m interested in creating applications that make life a bit easier. There's always something that could be done better!
 - 🌱 I’m currently learning web development, and I've just recently re-entered the space after working on a few physical products.
 - 💞️ I’m looking to collaborate on Windows applications that make use of NodeJS backends!
