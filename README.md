@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything related to embedded system programming!
 - 📫 How to reach me... well, here! If I have any public repos that you're interested in, feel free to check them out and comment!
 
+Please note that none of my recent projects have been posted to GitHub just yet. Many of them are associated with university assessments and so are not publicly available, but I'm more than happy to share privately if requested!
+
 As always, big thanks for checking out my page! 😄
 
 <!---
