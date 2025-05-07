@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xuppe
 - 👀 I’m interested in creating applications that make life a bit easier. There's always something that could be done better!
-- 🌱 I’m currently studying Computer Science so I'll be a little absent from the design community for the time being.
+- 🌱 I’m currently studying Computer Science so I may be a little absent from the design community for the time being.
 - 💞️ I’m looking to collaborate on anything related to embedded system programming!
 - 📫 How to reach me... well, here! If I have any public repos that you're interested in, feel free to check them out and comment!
 
