@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Xu
+- 👋 Hi, I’m @Xuppe
 - 👀 I’m interested in creating applications that make life a bit easier. There's always something that could be done better!
-- 🌱 I’m currently learning web development, and I've just recently re-entered the space after working on a few physical products.
-- 💞️ I’m looking to collaborate on Windows applications that make use of NodeJS backends!
+- 🌱 I’m currently studying Computer Science so I'll be a little absent from the design community for the time being.
+- 💞️ I’m looking to collaborate on anything related to embedded system programming!
 - 📫 How to reach me ... well, here! If I have any public repos that you're interested in, feel free to check them out and comment!
 
 As always, big thanks for checking out my page! 😄
